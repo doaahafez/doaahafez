@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Doaa Abd El-Hafez
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Flutter Developer & Full Stack Development
 - 🌱 I’m currently learning Web Design
 - 💞️ I’m looking to collaborate on any web design projects
 - 📫 How to reach me dhafez842@gmail.com
